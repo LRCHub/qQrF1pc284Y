@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "magic city",
+  "base_artist": "koyori(電ポルP)",
+  "createdAt": "2025-12-18T14:31:40.952356Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Magic City",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/01_Magic_City_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Magic City",
+      "artist": "Yngwie J. Malmsteen’s Rising Force",
+      "has_synced": false,
+      "path": "select/02_Magic_City_Yngwie_J._Malmsteen’s_Rising_Force.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Magic City",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": false,
+      "path": "select/03_Magic_City_Yngwie_Malmsteen.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Magic City",
+      "artist": "Buju Banton",
+      "has_synced": false,
+      "path": "select/04_Magic_City_Buju_Banton.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Magic City Monday",
+      "artist": "Jeezy feat. Future & 2 Chainz",
+      "has_synced": false,
+      "path": "select/05_Magic_City_Monday_Jeezy_feat._Future_&_2_Chainz.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Magic City Wholesale",
+      "artist": "Waxahatchee",
+      "has_synced": true,
+      "path": "select/06_Magic_City_Wholesale_Waxahatchee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Magic City (feat. Quavo)",
+      "artist": "Fivio Foreign feat. Quavo",
+      "has_synced": true,
+      "path": "select/07_Magic_City_(feat._Quavo)_Fivio_Foreign_feat._Quavo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Magic City (feat. Quavo)",
+      "artist": "Fivio Foreign, Quavo",
+      "has_synced": true,
+      "path": "select/08_Magic_City_(feat._Quavo)_Fivio_Foreign,_Quavo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Magic City (feat. Quavo)",
+      "artist": "Fivio Foreign",
+      "has_synced": false,
+      "path": "select/09_Magic_City_(feat._Quavo)_Fivio_Foreign.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Magic City Monday (feat. Yeezy & Future)",
+      "artist": "2 Chainz feat. Future & Yeezy",
+      "has_synced": false,
+      "path": "select/10_Magic_City_Monday_(feat._Yeezy_&_Future)_2_Chainz_feat._Future_&_Yeezy.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Magic City Monday (feat. Yeezy & Future)",
+      "artist": "2 Chainz",
+      "has_synced": false,
+      "path": "select/11_Magic_City_Monday_(feat._Yeezy_&_Future)_2_Chainz.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Magic City",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/12_Magic_City_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Magic City (feat. Степан Карма)",
+      "artist": "ЛСП feat. Степан Карма",
+      "has_synced": true,
+      "path": "select/13_Magic_City_(feat._Степан_Карма)_ЛСП_feat._Степан_Карма.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Magic City",
+      "artist": "ЛСП, Степан Карма",
+      "has_synced": true,
+      "path": "select/14_Magic_City_ЛСП,_Степан_Карма.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Magic City",
+      "artist": "Joe",
+      "has_synced": false,
+      "path": "select/15_Magic_City_Joe.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Magic City",
+      "artist": "2xl",
+      "has_synced": false,
+      "path": "select/16_Magic_City_2xl.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Magic City (feat. Asian Doll)",
+      "artist": "Gucci Mane feat. Asian Doll",
+      "has_synced": true,
+      "path": "select/17_Magic_City_(feat._Asian_Doll)_Gucci_Mane_feat._Asian_Doll.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Magic City (feat. Asian Doll)",
+      "artist": "Gucci Mane",
+      "has_synced": true,
+      "path": "select/18_Magic_City_(feat._Asian_Doll)_Gucci_Mane.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "MAGIC CITY COWBOY",
+      "artist": "Jamie Ray",
+      "has_synced": true,
+      "path": "select/19_MAGIC_CITY_COWBOY_Jamie_Ray.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "magic city",
+      "artist": "koyori(電ポルP)",
+      "has_synced": false,
+      "path": "select/pl_01_magic_city_koyori(電ポルP).txt"
+    }
+  ]
+}
